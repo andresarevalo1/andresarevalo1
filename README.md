@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="foto-perfil.jpg" width="130" style="border-radius: 50%;" alt="Andrés Arévalo Puello"/>
-</p>
-
 <h1 align="center">Hola, soy Andrés Arévalo Puello 👋</h1>
 <h3 align="center">Ingeniero de Sistemas · Soporte IT & Infraestructura · Desarrollo de Software · AI-Driven Developer</h3>
 
