@@ -97,6 +97,10 @@ Practico **Vibe Coding** — describo lo que quiero construir, la IA lo material
 
 ---
 
+> 🔒 **Proyectos Privados** — Krozfus Page, Krozfus Launcher, Krozfus Server.
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
